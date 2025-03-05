@@ -53,3 +53,5 @@ We evaluate our models using various metrics, including:
 - **ROC AUC Score**
 - **Confusion Matrix**
 - **Silhouette Score (for clustering)**
+
+# Contributors: https://github.com/vramdavtyan
