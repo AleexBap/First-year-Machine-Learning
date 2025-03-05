@@ -13,37 +13,10 @@ This project aims to predict the likelihood of pet adoption based on various fea
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/vramdavtyan/MLProjects.git
+https://github.com/AleexBap/Machine-Learning.git
 ```
 
-Navigate to the project folder:
-
-```bash
-cd MLProjects
-```
-
-### 2. Set Up the Environment
-
-It is recommended to create a virtual environment to manage the dependencies. You can do this using `venv`:
-
-```bash
-python -m venv env
-```
-
-Activate the virtual environment:
-
-- **Windows**:
-
-  ```bash
-  .\env\Scripts\activate
-  ```
-
-- **Mac/Linux**:
-  ```bash
-  source env/bin/activate
-  ```
-
-### 3. Install Required Libraries
+### 2. Install Required Libraries
 
 Once your environment is set up, install the required libraries listed in the `requirements.txt` file:
 
