@@ -1,6 +1,6 @@
-# **Pet Adoption Prediction using PetFinder.my Dataset**
+# 🐶 **Pet Adoption Prediction using PetFinder.my Dataset** 🐱
 
-## Project Overview
+## 🦴Project Overview🦴
 
 This project aims to predict the likelihood of pet adoption based on various features such as pet characteristics, health status, and adoption speed. We apply various machine learning techniques, including classification models and clustering algorithms, to analyze the dataset and make predictions about pet adoption.
 
