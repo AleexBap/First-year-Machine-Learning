@@ -57,3 +57,6 @@ We evaluate our models using various metrics, including:
 # Contributors: https://github.com/vramdavtyan
 
 ## Grade: 14.9 of 20
+
+## Teacher: Sara Madeira
+https://saracmadeira.wordpress.com/
