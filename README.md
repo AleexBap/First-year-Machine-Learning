@@ -55,3 +55,5 @@ We evaluate our models using various metrics, including:
 - **Silhouette Score (for clustering)**
 
 # Contributors: https://github.com/vramdavtyan
+
+## Grade: 14.9 of 20
